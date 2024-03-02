@@ -1,5 +1,11 @@
 This project implements the classic Tower of Hanoi problem using a stack data structure in C#. The Tower of Hanoi is a mathematical puzzle that involves three rods and a number of disks of different sizes which can slide onto any rod. The puzzle starts with the disks in a neat stack in ascending order of size on one rod, the smallest at the top, thus making a conical shape.
 
+<p align="center">
+  <img src="demo/result_demo.gif" alt="Demo video">
+</p>
+
+<p align="center"><em>Result</em></p> 
+
 The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules:
 
     Only one disk can be moved at a time.
